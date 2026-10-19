@@ -1,0 +1,43 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+_____________________________________________
+
+A) INDIVIDUAL STUDENT PERFORMANCE
+---------------------------------------------
+Student ID: 1
+Name: John Doe
+Maths: 25
+English: 18
+Science: 32
+Average: 25.0
+Grade: F
+------------------------------
+Student ID: 2
+Name: Jane Smith
+Maths: 45
+English: 55
+Science: 65
+Average: 55.0
+Grade: C
+------------------------------
+Student ID: 3
+Name: Alice Johnson
+Maths: 75
+English: 85
+Science: 95
+Average: 85.0
+Grade: A
+------------------------------
+
+B) CLASS PERFORMANCE SUMMARY
+---------------------------------------------
+Top Performer: Alice Johnson (85.0)
+Lowest Performer: John Doe (25.0)
+Class Average: 55.00
+
+SCHOLARSHIP ELIGIBILITY
+---------------------------------------------
+John Doe: No
+Jane Smith: No
+Alice Johnson: Yes
+
+Visualization: student_performance_chart.png
