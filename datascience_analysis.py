@@ -37,4 +37,7 @@ vis = df.plot.bar(x='FName', y='Average', title='Average Scores of Students', le
 
 plt.xlabel('Students')
 plt.ylabel('Average Score')
+# saving the chart as a PNG file with high resolution
+plt.savefig("student_performance_chart.png", dpi=300, bbox_inches="tight")
+
 plt.show()
